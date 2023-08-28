@@ -1,6 +1,8 @@
 # Care-Management-Dashboard-for-Suffolk-City-Council-UK-
 
-Suffolk County Council (United Kingdom)
+Quick Note: 
+File is larger than Github's 25mb ceiling. Please copy this link (https://drive.google.com/file/d/1Drr6tk1LyCAYTjqWDcob9KGOMArk9Kqg/view?usp=sharing) in your browser to access the .pbix file. 
+
 
 Summary
 The project was built with the Adult Social Care department in mind as the main
